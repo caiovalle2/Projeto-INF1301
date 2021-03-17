@@ -21,6 +21,7 @@ Lista* lst_cria(void){
     l->ini = NULL;
     l->fin = NULL;
     return l;
+    
 }
 
 int lst_vazia(Lista* lst){
